@@ -8,11 +8,14 @@ Containing one folder and one document.
 
 - [CECTestFunctions-and-Analysis.docx](https://github.com/aliwa8168/HGAO/blob/main/Appendix/CECTestFunctions-and-Analysis.docx):This document contains a detailed process and result analysis of experiments conducted on **CEC2021** and **CEC2022** test functions. In these experiments, the proposed **HGAO** model is comprehensively compared with other state-of-the-art optimization algorithms.
 
-- [Training set accuracy and loss convergence curve](https://github.com/aliwa8168/HGAO/tree/main/Appendix/Training set accuracy and loss convergence curve): This folder contains the accuracy and loss convergence curves for five datasets on the training set. Each dataset includes two images depicting the training set accuracy and two images depicting the training set loss.
+- [Training set accuracy and loss convergence curve](https://github.com/aliwa8168/HGAO/tree/main/Appendix/Training%20set%20accuracy%20and%20loss%20convergence%20curve): This folder contains the accuracy and loss convergence curves for five datasets on the training set. Each dataset includes two images depicting the training set accuracy and two images depicting the training set loss.
 
   The training set accuracy convergence curves of HGAO and other five algorithms in LC25000 dataset are shown below, and the other four algorithms are shown in other pictures under this dataset.
 
-​	![LC2](https://github.com/aliwa8168/HGAO/blob/main/Appendix/Training%20set%20accuracy%20and%20loss%20convergence%20curve/LC25000/Training%20accuracy-1.png)
+<p align="center">
+  <img src="https://github.com/aliwa8168/HGAO/blob/main/Appendix/Training%20set%20accuracy%20and%20loss%20convergence%20curve/LC25000/Training%20accuracy-1.png" width="45%" />
+  <img src="https://github.com/aliwa8168/HGAO/blob/main/Appendix/Training%20set%20accuracy%20and%20loss%20convergence%20curve/LC25000/Training%20accuracy-2.png" width="45%" />
+</p>
 
 ## [Datasets](https://github.com/aliwa8168/HGAO/tree/main/Datasets)
 
