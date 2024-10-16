@@ -10,7 +10,7 @@ Containing one folder and one document.
 
 - [Training set accuracy and loss convergence curve](https://github.com/aliwa8168/HGAO/tree/main/Appendix/Training%20set%20accuracy%20and%20loss%20convergence%20curve): This folder contains the accuracy and loss convergence curves for five datasets on the training set. Each dataset includes two images depicting the training set accuracy and two images depicting the training set loss.
 
-  The training set accuracy convergence curves of HGAO and other five algorithms in LC25000 dataset are shown below, and the other four algorithms are shown in other pictures under this dataset.
+  The accuracy convergence curves of HGAO and the other 9 algorithms on the  [LC25000](https://github.com/aliwa8168/HGAO/tree/main/Datasets/LC25000) dataset are shown below.
 
 <p align="center">
   <img src="https://github.com/aliwa8168/HGAO/blob/main/Appendix/Training%20set%20accuracy%20and%20loss%20convergence%20curve/LC25000/Training%20accuracy-1.png" width="45%" />
